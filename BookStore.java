@@ -1,9 +1,9 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 import java.util.ArrayList; 
 public class BookStore {
 	 Book[] books = { new Book("Thinking in java","Joshua","0198526636",100),new Book("Head first","Kathy","0198876636",10),new Book("Rich dad poor dad","Robert Kiyosaki","0178526636",230),new Book("Distilled uml","Josh","0198526636",30),
 			 new Book("Let us c","Yashvant Kanetkar","0238526636",58),new Book("Secret","Rhonda Byrne","0198526136",142),new Book("One Arranged Murder","Chetan Bhagat","0198531136",150),new Book("Think Grow and Rich","Napoleon Hill","0858526636",25),
-			 new Book("Getting Started with Spring Framework","Ashish sarin","0198526698",27),new Book("Spring MVC: Beginner’s Guide","Amuthan G","0142526636",79) };     
+			 new Book("Getting Started with Spring Framework","Ashish sarin","0198526698",27),new Book("Spring MVC: Beginnerâ€™s Guide","Amuthan G","0142526636",79) };     
 	 
 	 ArrayList<Book> booklist=new ArrayList<>(); 
 	 
