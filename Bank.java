@@ -1,4 +1,4 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 
 import java.util.Scanner;
 
