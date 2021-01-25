@@ -1,4 +1,4 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 import java.util.Scanner;
 public class VehicleApplication {
 public static void main(String[] args) {
@@ -9,10 +9,10 @@ public static void main(String[] args) {
 	do
 	{
 		System.out.println("Options for Creation of Vehicle Objects ");
-		System.out.println("1– to create a Vehicle object.  ");
-        System.out.println("2– to create a Car object.");
-        System.out.println("3– to create a Convertible object. ");
-        System.out.println("4– to create a SportCar object");
+		System.out.println("1â€“ to create a Vehicle object.  ");
+        System.out.println("2â€“ to create a Car object.");
+        System.out.println("3â€“ to create a Convertible object. ");
+        System.out.println("4â€“ to create a SportCar object");
         System.out.print("Enter your choice:  ");
         
         user_option=sc.nextInt();
