@@ -1,4 +1,4 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 import java.util.Scanner;
 public class BookStoreApp {
 public static void main(String[] args) {
@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		 int no_of_copies;
 		 System.out.println();
         System.out.println("Menu Of Bookbookstore...");
-        System.out.println("Enter 1- to display the Books: Title – Author – ISBN - Quantity.");
+        System.out.println("Enter 1- to display the Books: Title â€“ Author â€“ ISBN - Quantity.");
         System.out.println("2- to order new books");
         System.out.println("3- to sell books");
         System.out.println("Enter 0, to exit the system.");
