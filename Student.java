@@ -1,4 +1,4 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 public class Student {
 	private String name;
 	private String id;
