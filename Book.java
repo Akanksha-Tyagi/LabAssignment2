@@ -1,4 +1,4 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 
 public class Book {
 	private  String bookTitle;
@@ -35,7 +35,7 @@ public class Book {
 	}
 	public  void display()
 	{
-		System.out.println(bookTitle+" – " +author+" – "+ISBN+" – "+ numOfCopies);
+		System.out.println(bookTitle+" â€“ " +author+" â€“ "+ISBN+" â€“ "+ numOfCopies);
 	}
 
 
