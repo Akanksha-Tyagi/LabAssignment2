@@ -1,4 +1,4 @@
-package Akanksha.labassignment2;
+package akanksha.labassignment2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -13,8 +13,8 @@ public static void main(String[] args) {
 	do
 	{
 		System.out.println("Options for Student Class ");
-		System.out.println("1 – to create a Student object. ");
-        System.out.println("2 – to display the Student info");
+		System.out.println("1 â€“ to create a Student object. ");
+        System.out.println("2 â€“ to display the Student info");
         System.out.print("Enter your choice:  ");
         
         user_option=sc.nextInt();
